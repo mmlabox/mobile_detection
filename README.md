@@ -1,5 +1,8 @@
-# Mobile detection
+# Mobile detection based on alwaysAI platform
+alwaysAI is an essential computer vision development platform for creating and deploying machine learning applications on edge devices such as Raspberry Pi and NVIDIA Jetson Nano to name a few
 
+## Setup
+Start by creating an alwaysAI account by [clicking here](https://alwaysai.co/auth?register=true) or visit https://alwaysai.co/auth?register=true
 Install alwaysAI CLI
 
 Navigate to the folder containing the app through the Terminal
