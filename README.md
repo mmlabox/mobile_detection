@@ -23,7 +23,7 @@ aai app start
 ```
 you are now able to view till live video stream from your camera by visiting http://localhost:5000
 
-#### close application
+## Close application
 To close you application press CTRL C.
 
 
