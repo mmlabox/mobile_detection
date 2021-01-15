@@ -1,3 +1,5 @@
+# Mobile detection
+
 Install alwaysAI CLI
 
 Navigate to the folder containing the app through the Terminal
